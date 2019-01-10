@@ -13,4 +13,6 @@ objeto = {
   }
 }
 
+//wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
 objeto.processamento()
