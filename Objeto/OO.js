@@ -16,3 +16,6 @@ objeto = {
 //wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
 
 objeto.processamento()
+
+//principios importantes
+//  Abstracao
